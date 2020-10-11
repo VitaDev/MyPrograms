@@ -1,0 +1,13 @@
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\bin\Debug\netcoreapp3.1\Род Стивенсон 4.9.exe
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\bin\Debug\netcoreapp3.1\Род Стивенсон 4.9.deps.json
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\bin\Debug\netcoreapp3.1\Род Стивенсон 4.9.runtimeconfig.json
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\bin\Debug\netcoreapp3.1\Род Стивенсон 4.9.runtimeconfig.dev.json
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\bin\Debug\netcoreapp3.1\Род Стивенсон 4.9.dll
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\bin\Debug\netcoreapp3.1\Род Стивенсон 4.9.pdb
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\obj\Debug\netcoreapp3.1\Род Стивенсон 4.9.csprojAssemblyReference.cache
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\obj\Debug\netcoreapp3.1\Род Стивенсон 4.9.AssemblyInfoInputs.cache
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\obj\Debug\netcoreapp3.1\Род Стивенсон 4.9.AssemblyInfo.cs
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\obj\Debug\netcoreapp3.1\Род Стивенсон 4.9.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\obj\Debug\netcoreapp3.1\Род Стивенсон 4.9.dll
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\obj\Debug\netcoreapp3.1\Род Стивенсон 4.9.pdb
+C:\Users\Виталий\source\repos\Род Стивенсон 4.9\Род Стивенсон 4.9\obj\Debug\netcoreapp3.1\Род Стивенсон 4.9.genruntimeconfig.cache

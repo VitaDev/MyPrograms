@@ -1,0 +1,13 @@
+C:\Users\Виталий\source\repos\4.127\4.127\bin\Debug\netcoreapp3.1\4.127.exe
+C:\Users\Виталий\source\repos\4.127\4.127\bin\Debug\netcoreapp3.1\4.127.deps.json
+C:\Users\Виталий\source\repos\4.127\4.127\bin\Debug\netcoreapp3.1\4.127.runtimeconfig.json
+C:\Users\Виталий\source\repos\4.127\4.127\bin\Debug\netcoreapp3.1\4.127.runtimeconfig.dev.json
+C:\Users\Виталий\source\repos\4.127\4.127\bin\Debug\netcoreapp3.1\4.127.dll
+C:\Users\Виталий\source\repos\4.127\4.127\bin\Debug\netcoreapp3.1\4.127.pdb
+C:\Users\Виталий\source\repos\4.127\4.127\obj\Debug\netcoreapp3.1\4.127.csprojAssemblyReference.cache
+C:\Users\Виталий\source\repos\4.127\4.127\obj\Debug\netcoreapp3.1\4.127.AssemblyInfoInputs.cache
+C:\Users\Виталий\source\repos\4.127\4.127\obj\Debug\netcoreapp3.1\4.127.AssemblyInfo.cs
+C:\Users\Виталий\source\repos\4.127\4.127\obj\Debug\netcoreapp3.1\4.127.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\4.127\4.127\obj\Debug\netcoreapp3.1\4.127.dll
+C:\Users\Виталий\source\repos\4.127\4.127\obj\Debug\netcoreapp3.1\4.127.pdb
+C:\Users\Виталий\source\repos\4.127\4.127\obj\Debug\netcoreapp3.1\4.127.genruntimeconfig.cache
