@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\bin\Debug\netcoreapp3.1\WorkWithDelegates.exe
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\bin\Debug\netcoreapp3.1\WorkWithDelegates.deps.json
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\bin\Debug\netcoreapp3.1\WorkWithDelegates.runtimeconfig.json
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\bin\Debug\netcoreapp3.1\WorkWithDelegates.runtimeconfig.dev.json
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\bin\Debug\netcoreapp3.1\WorkWithDelegates.dll
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\bin\Debug\netcoreapp3.1\WorkWithDelegates.pdb
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\obj\Debug\netcoreapp3.1\WorkWithDelegates.csprojAssemblyReference.cache
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\obj\Debug\netcoreapp3.1\WorkWithDelegates.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\obj\Debug\netcoreapp3.1\WorkWithDelegates.AssemblyInfo.cs
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\obj\Debug\netcoreapp3.1\WorkWithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\obj\Debug\netcoreapp3.1\WorkWithDelegates.dll
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\obj\Debug\netcoreapp3.1\WorkWithDelegates.pdb
+C:\Users\home\source\repos\WorkWithDelegates\WorkWithDelegates\obj\Debug\netcoreapp3.1\WorkWithDelegates.genruntimeconfig.cache

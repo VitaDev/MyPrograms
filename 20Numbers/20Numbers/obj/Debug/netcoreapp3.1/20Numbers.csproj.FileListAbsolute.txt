@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\20Numbers\20Numbers\bin\Debug\netcoreapp3.1\20Numbers.exe
+C:\Users\home\source\repos\20Numbers\20Numbers\bin\Debug\netcoreapp3.1\20Numbers.deps.json
+C:\Users\home\source\repos\20Numbers\20Numbers\bin\Debug\netcoreapp3.1\20Numbers.runtimeconfig.json
+C:\Users\home\source\repos\20Numbers\20Numbers\bin\Debug\netcoreapp3.1\20Numbers.runtimeconfig.dev.json
+C:\Users\home\source\repos\20Numbers\20Numbers\bin\Debug\netcoreapp3.1\20Numbers.dll
+C:\Users\home\source\repos\20Numbers\20Numbers\bin\Debug\netcoreapp3.1\20Numbers.pdb
+C:\Users\home\source\repos\20Numbers\20Numbers\obj\Debug\netcoreapp3.1\20Numbers.csprojAssemblyReference.cache
+C:\Users\home\source\repos\20Numbers\20Numbers\obj\Debug\netcoreapp3.1\20Numbers.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\20Numbers\20Numbers\obj\Debug\netcoreapp3.1\20Numbers.AssemblyInfo.cs
+C:\Users\home\source\repos\20Numbers\20Numbers\obj\Debug\netcoreapp3.1\20Numbers.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\20Numbers\20Numbers\obj\Debug\netcoreapp3.1\20Numbers.dll
+C:\Users\home\source\repos\20Numbers\20Numbers\obj\Debug\netcoreapp3.1\20Numbers.pdb
+C:\Users\home\source\repos\20Numbers\20Numbers\obj\Debug\netcoreapp3.1\20Numbers.genruntimeconfig.cache
