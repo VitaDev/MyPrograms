@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\bin\Debug\netcoreapp3.1\WorkWithThread.exe
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\bin\Debug\netcoreapp3.1\WorkWithThread.deps.json
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\bin\Debug\netcoreapp3.1\WorkWithThread.runtimeconfig.json
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\bin\Debug\netcoreapp3.1\WorkWithThread.runtimeconfig.dev.json
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\bin\Debug\netcoreapp3.1\WorkWithThread.dll
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\bin\Debug\netcoreapp3.1\WorkWithThread.pdb
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\obj\Debug\netcoreapp3.1\WorkWithThread.csprojAssemblyReference.cache
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\obj\Debug\netcoreapp3.1\WorkWithThread.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\obj\Debug\netcoreapp3.1\WorkWithThread.AssemblyInfo.cs
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\obj\Debug\netcoreapp3.1\WorkWithThread.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\obj\Debug\netcoreapp3.1\WorkWithThread.dll
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\obj\Debug\netcoreapp3.1\WorkWithThread.pdb
+C:\Users\home\source\repos\WorkWithThread\WorkWithThread\obj\Debug\netcoreapp3.1\WorkWithThread.genruntimeconfig.cache
