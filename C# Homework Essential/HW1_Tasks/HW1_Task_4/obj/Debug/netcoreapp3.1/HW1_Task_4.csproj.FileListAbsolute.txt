@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\obj\Debug\netcoreapp3.1\HW1_Task_4.csprojAssemblyReference.cache
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\obj\Debug\netcoreapp3.1\HW1_Task_4.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\obj\Debug\netcoreapp3.1\HW1_Task_4.AssemblyInfo.cs
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\obj\Debug\netcoreapp3.1\HW1_Task_4.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\bin\Debug\netcoreapp3.1\HW1_Task_4.exe
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\bin\Debug\netcoreapp3.1\HW1_Task_4.deps.json
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\bin\Debug\netcoreapp3.1\HW1_Task_4.runtimeconfig.json
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\bin\Debug\netcoreapp3.1\HW1_Task_4.runtimeconfig.dev.json
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\bin\Debug\netcoreapp3.1\HW1_Task_4.dll
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\bin\Debug\netcoreapp3.1\HW1_Task_4.pdb
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\obj\Debug\netcoreapp3.1\HW1_Task_4.dll
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\obj\Debug\netcoreapp3.1\HW1_Task_4.pdb
+C:\Users\home\source\repos\HW1_Task_2\HW1_Task_4\obj\Debug\netcoreapp3.1\HW1_Task_4.genruntimeconfig.cache
